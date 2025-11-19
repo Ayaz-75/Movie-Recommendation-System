@@ -1,6 +1,7 @@
 import streamlit as st
 import pandas as pd
 import numpy as np
+import scipy
 from scipy.spatial.distance import cosine
 import matplotlib.pyplot as plt
 
